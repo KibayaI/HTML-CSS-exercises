@@ -1,0 +1,6 @@
+![testimonials_screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/f01cf9f6-8080-4e68-9541-6602791db4f4)
+![testimonials_mobile_screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/8ad12506-b3a8-40b0-82d9-bc5c3ce85370)
+![screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/822056dd-2a37-494d-ac94-83c61df16c95)
+![google_screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/2e113984-3303-47c4-b213-dba82895ed63)
+![checkout_screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/467d3029-cdf7-4494-a469-7e0062d27d07)
+![cards_screenshot](https://github.com/KibayaI/HTML-CSS-exercises/assets/162471310/bbc105a8-f721-49bc-8a29-4e53507c25ab)
